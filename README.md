@@ -29,7 +29,7 @@ Bible study often means moving between a Bible reader, historical commentary, la
 | Capability | Experience |
 | --- | --- |
 | **Scripture reader** | Navigate books, chapters, and verses, with multi-verse selection and responsive reading layouts. |
-| **Historical commentary** | Explore 26 integrated commentaries alongside biblical passages. |
+| **Historical commentary** | Explore integrated commentaries alongside biblical passages. |
 | **Original-language study** | Inspect word-level Hebrew and Greek information in the currently supported passages. |
 | **Search** | Find passages and explore paginated results. |
 | **Personal study** | Save bookmarks, highlights, notes, and reading progress. |
