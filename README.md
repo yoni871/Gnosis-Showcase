@@ -105,7 +105,7 @@ This is a public, view-only portfolio repository. Application development and pr
 
 The visuals reuse existing Gnosis assets:
 
-- `hero.webp`: the signed-out landing-page screenshot, converted to WebP. The page includes the owner's existing generated sunset artwork.
+- `hero.webp`: the signed-out landing-page screenshot, cropped to its hero section and converted to WebP. The page includes the owner's existing generated sunset artwork.
 - `scripture-reader.webp`: the owner-supplied Genesis 1 desktop capture, with browser chrome removed and a proportional WebP export.
 - `mobile.webp`: the existing WebP delivery copy of the owner-supplied John 1 mobile capture, reused without re-encoding.
 
